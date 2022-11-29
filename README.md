@@ -8,10 +8,10 @@ xcode vscode extension 설치 필수
 1. [AppWithUseState]
 - useState만으로 만든 알람앱
 - 알람을 여러개 추가하거나 제거해서 사용가능
-1. [AppWithMachine]
+2. [AppWithMachine]
 - XSTATE의 Machine만으로 알람앱
 - 알람을 하나밖에 사용하지 못함
-1. [AppWithActor]
+3. [AppWithActor]
 - XSTATE의 Machine그리고 Actor를 이용하여 만든 알람앱
 - 알람을 여러개 추가하거나 제거해서 사용가능
 - Machine의 한계와 Actor를 이용하여 그것을 보완
