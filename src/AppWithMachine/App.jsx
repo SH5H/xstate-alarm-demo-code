@@ -1,6 +1,6 @@
 import { useMachine } from '@xstate/react';
 import { inspect } from '@xstate/inspect';
-import { timerMachine2 } from './timerMachine2';
+import { timerMachine2 } from './timerMachine';
 
 inspect({
   // options
